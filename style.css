@@ -1,0 +1,18 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://png.pngtree.com/background/20210709/original/pngtree-whale-jellyfish-cartoon-background-in-blue-ocean-picture-image_945838.jpg);
+  height: 680px;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://png.pngtree.com/background/20210709/original/pngtree-whale-cartoon-background-swimming-deep-in-the-ocean-picture-image_964510.jpg);
+  height: 680px;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://png.pngtree.com/illustrations/20190320/ourlarge/pngtree-cartoon-whale-whale-jellyfish-png-image_23941.jpg);
+  height: 680px;
+}
